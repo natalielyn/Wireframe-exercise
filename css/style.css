@@ -1,0 +1,57 @@
+* {
+  margin: 30px;
+  
+}
+
+header {
+  width:100%;
+  height: 70px
+}
+
+header > img {
+float: left;
+}
+
+nav > h2{
+  float: left;
+  /* margin-top:35px; */
+}
+
+#sectionone {
+  width: 960px;
+  margin: auto;
+
+}
+
+#sectiontwo {
+  margin: auto;
+  text-align: center;
+  /* margin-top: 30px; */
+  
+
+}
+#sectiontwo > img {
+  text-align: center;
+  margin: 13px;
+}
+
+#sectionthree {
+  
+    margin: auto;
+    width: 960px;
+    height: 500px;
+    
+  }
+  article {
+    float: left;
+    height: 400px;
+    width: 460px;
+    float: right;
+    padding: 10px;
+  
+  }
+
+  p {
+    overflow: scroll;
+    height: 330px;
+  }
